@@ -1,0 +1,92 @@
+<extend name="./Apps/Common/View/base.html" />
+<block name="content">
+	<div>
+		<style type="text/css">
+			.wynews h3 a{
+				color:#444;
+			}
+			.wynews h4 a{
+				color:#444;
+			}
+			.wynews p a{
+				color:#555;
+			}
+			.wynews ul li a{
+				color:#444;
+			}
+			.wynews ul{
+				padding-left:15px;
+			}
+			.fhnews h1 a,.fhnews h2 a{
+				font-size:24px;
+				color:#444;
+			}
+			.fhnews h1 a,.fhnews h2 a:hover{
+				color:red;
+			}
+			.tit span{
+				display:none;
+			}
+			#headingNews a{
+				color:#444;
+			}
+			#headingNews h2 a{
+				font-size:24px;
+			}
+			#headingNews .btns{
+				display:none;
+			}
+			#headingNews .pic{
+				display:none;
+			}
+			.bdnews ul{
+				padding-left:15px;
+			}
+			.bdnews .hotnews strong a{
+				font-size:24px;
+			}
+			.bdnews a{
+				color:#444;
+			}
+			.bdnews .bold-item{
+				font-size:20px;
+				font-weight:5px;
+			}
+		</style>
+		<div class="row">
+			
+			<div class="col-md-6">
+				<div><h2>网易新闻</h2></div>
+				<div class="wynews">{$wynews}</div>
+				<div>
+					
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div><h2>凤凰新闻</h2></div>
+				<div class="fhnews">{$fhnews}</div>
+				<div class="row">
+					<div class="col-md-12">
+						<div><h2>腾讯新闻</h2></div>
+						<div class="txnews">{$txnews}</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+							<div><h2>百度新闻</h2></div>
+							<div class="bdnews">{$bdnews}</div>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+		<div>
+			<script type="text/javascript">
+			var sogou_ad_id=575317;
+			var sogou_ad_height=200;
+			var sogou_ad_width=500;
+			</script>
+			<script type='text/javascript' src='http://images.sohu.com/cs/jsfile/js/c.js'></script>
+		</div>
+	</div>
+</block>

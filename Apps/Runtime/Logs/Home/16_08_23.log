@@ -1,0 +1,23 @@
+[ 2016-08-23T07:32:36+08:00 ] 123.125.71.36 /snail/index.php/Home/Index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+NOTIC: [8] Undefined offset: 0 /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Org/Api/News.class.php 第 25 行.
+NOTIC: [8] Undefined offset: 1 /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Org/Api/News.class.php 第 25 行.
+NOTIC: [8] Undefined offset: 3 /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Org/Api/News.class.php 第 25 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007873s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000902s ]
+

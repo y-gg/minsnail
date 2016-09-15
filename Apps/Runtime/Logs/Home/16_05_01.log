@@ -1,0 +1,684 @@
+[ 2016-05-01T10:13:44+08:00 ] 220.181.108.177 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029827s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029912s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000959s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001046s ]
+
+[ 2016-05-01T10:47:04+08:00 ] 220.181.108.185 /snail/index.php/Home/Index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007708s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001006s ]
+
+[ 2016-05-01T11:49:50+08:00 ] 220.181.108.182 /snail/index.php/Home/Index/moves
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+SQL: SHOW COLUMNS FROM `minsnail_moves` [ RunTime:0.0017s ]
+NOTIC: [8] Undefined index: limit /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Think/Db/Driver.class.php 第 961 行.
+SQL: SELECT `id`,`film_name_zh`,`film_pic`,`film_source` FROM `minsnail_moves` LIMIT 0,20   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000254s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011616s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011696s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000794s ]
+
+[ 2016-05-01T12:23:11+08:00 ] 123.125.71.77 /snail/index.php/Home/Index/weather
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000209s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Undefined index: alarms /data/home/qxu1146180057/htdocs/snail/Apps/Runtime/Cache/Home/b9e41d6d94a233efaa7ba1b2ba74162f.php 第 344 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034512s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034620s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000696s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2016-05-01T12:56:33+08:00 ] 220.181.108.84 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008708s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008794s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000843s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000945s ]
+
+[ 2016-05-01T13:29:53+08:00 ] 220.181.108.97 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007811s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001106s ]
+
+[ 2016-05-01T14:03:13+08:00 ] 220.181.108.75 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008071s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001040s ]
+
+[ 2016-05-01T14:36:33+08:00 ] 123.125.71.107 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007916s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001122s ]
+
+[ 2016-05-01T15:09:53+08:00 ] 123.125.71.55 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009272s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000876s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000967s ]
+
+[ 2016-05-01T15:43:13+08:00 ] 220.181.108.114 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008261s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008322s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000884s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000982s ]
+
+[ 2016-05-01T16:16:33+08:00 ] 220.181.108.163 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008062s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001024s ]
+
+[ 2016-05-01T16:49:53+08:00 ] 123.125.71.75 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008763s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008835s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000844s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000943s ]
+
+[ 2016-05-01T17:23:13+08:00 ] 220.181.108.86 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008468s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008530s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000954s ]
+
+[ 2016-05-01T18:29:53+08:00 ] 220.181.108.101 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000111s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000212s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008255s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008326s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000955s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001067s ]
+
+[ 2016-05-01T19:03:13+08:00 ] 220.181.108.147 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007892s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001258s ]
+
+[ 2016-05-01T19:36:33+08:00 ] 123.125.71.77 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008140s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008195s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000925s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001015s ]
+
+[ 2016-05-01T20:09:53+08:00 ] 123.125.71.73 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008116s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000969s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001062s ]
+
+[ 2016-05-01T20:43:13+08:00 ] 123.125.71.43 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007811s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000950s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001049s ]
+
+[ 2016-05-01T21:49:53+08:00 ] 123.125.71.49 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010329s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010389s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000992s ]
+
+[ 2016-05-01T22:23:13+08:00 ] 220.181.108.160 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008865s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008953s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000911s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001005s ]
+
+[ 2016-05-01T22:56:33+08:00 ] 123.125.71.83 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001332s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008293s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008352s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000903s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001004s ]
+
+[ 2016-05-01T23:29:53+08:00 ] 220.181.108.150 /snail/Home/index/news
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+NOTIC: [8] iconv(): Detected an illegal character in input string /data/home/qxu1146180057/htdocs/snail/ThinkPHP/Library/Vendor/htmlparser/simple_html_dom.php 第 806 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007937s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007996s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000993s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001108s ]
+
